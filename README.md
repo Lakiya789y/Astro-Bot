@@ -10,7 +10,7 @@
 
 ---------------------------------   
 
- ###  Developer : Vihanga-YT
+ ###  Developer : LAKSHAN
 
 ## Thanks To
 #### ◉[@adiwajshing](https://github.com/adiwajshing/) for coded.
