@@ -12,10 +12,4 @@
 
  ###  Developer : LAKSHAN
 
-## Thanks To
-#### ◉[@adiwajshing](https://github.com/adiwajshing/) for coded.
-#### ◉[@yusufusta](https://github.com/yusufusta/) for coded.
-#### ◉[@SamPandey001](https://github.com/SamPandey001) For session and multi file auth State.
-#### ◉[@sanuwaofficial](https://github.com/sanuwaofficial) for apk downloader and help. 
-#### ◉[@edm-official](https://github.com/edm-official) for base and help.
-#### ◉[@DarkMakerofc](https://github.com/DarkMakerofc) for help. 
+
